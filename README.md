@@ -1,11 +1,16 @@
 # Free Hadoop Books
 
-This is my personal collection of free Hadoop books, please feel free to share and learn.
+This is a curated collection of free Hadoop related eBooks available on the Internet. Please feel free to share and learn.
+
+If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+
+**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
 
 ## List of Books
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
+* Advanced Analytics with Spark - Patterns for Learning from Data at Scale - Second Edition [[Download]](/book/Advanced%20Analytics%20with%20Spark%20-%20Patterns%20for%20Learning%20from%20Data%20at%20Scale%20-%20Second%20Edition.pdf)
 * Agile Data Science - Building Data Analytics Applications with Hadoop [[Download]](/book/Agile%20Data%20Science%20-%20Building%20Data%20Analytics%20Applications%20with%20Hadoop.pdf)
 * Agile Data Science 2.0 - Building Full-Stack Data Analytics Applications with Spark [[Download]](/book/Agile%20Data%20Science%202.0%20-%20Building%20Full-Stack%20Data%20Analytics%20Applications%20with%20Spark.pdf)
 * Apache HBase Primer [[Download]](/book/Apache%20HBase%20Primer.pdf)
@@ -44,6 +49,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Instant MapReduce Patterns - Hadoop Essentials How-to [[Download]](/book/Instant%20MapReduce%20Patterns%20-%20Hadoop%20Essentials%20How-to.pdf)
 * Introducing Microsoft Azure HDInsight [[Download]](/book/Introducing%20Microsoft%20Azure%20HDInsight.pdf)
 * Learning Big Data with Amazon Elastic MapReduce [[Download]](/book/Learning%20Big%20Data%20with%20Amazon%20Elastic%20MapReduce.pdf)
+* Learning Spark - Lightning-Fast Big Data Analysis [[Download]](/book/Learning%20Spark%20-%20Lightning-Fast%20Big%20Data%20Analysis.pdf)
 * Mastering Azure Analytics - Architecting in the Cloud with Azure Data Lake, HDInsight, and Spark [[Download]](/book/Mastering%20Azure%20Analytics%20-%20Architecting%20in%20the%20Cloud%20with%20Azure%20Data%20Lake%2C%20HDInsight%2C%20and%20Spark.epub)
 * Mastering Hadoop [[Download]](/book/Mastering%20Hadoop.pdf)
 * Microsoft Big Data Solutions [[Download]](/book/Microsoft%20Big%20Data%20Solutions.pdf)
@@ -63,4 +69,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Real-World Hadoop [[Download]](/book/Real-World%20Hadoop.pdf)
 * Sams Teach Yourself Big Data Analytics with Microsoft HDInsight in 24 Hours [[Download]](/book/Sams%20Teach%20Yourself%20Big%20Data%20Analytics%20with%20Microsoft%20HDInsight%20in%2024%20Hours.epub)
 * Sams Teach Yourself Hadoop in 24 Hours [[Download]](/book/Sams%20Teach%20Yourself%20Hadoop%20in%2024%20Hours.epub)
+* Spark - The Definitive Guide - Big data processing made simple [[Download]](/book/Spark%20-%20The%20Definitive%20Guide%20-%20Big%20data%20processing%20made%20simple.epub)
+* Spark Cookbook [[Download]](/book/Spark%20Cookbook.pdf)
+* Spark for Python Developers [[Download]](/book/Spark%20for%20Python%20Developers.pdf)
 
