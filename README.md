@@ -13,6 +13,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Advanced Analytics with Spark - Patterns for Learning from Data at Scale - Second Edition [[Download]](/book/Advanced%20Analytics%20with%20Spark%20-%20Patterns%20for%20Learning%20from%20Data%20at%20Scale%20-%20Second%20Edition.pdf)
 * Agile Data Science - Building Data Analytics Applications with Hadoop [[Download]](/book/Agile%20Data%20Science%20-%20Building%20Data%20Analytics%20Applications%20with%20Hadoop.pdf)
 * Agile Data Science 2.0 - Building Full-Stack Data Analytics Applications with Spark [[Download]](/book/Agile%20Data%20Science%202.0%20-%20Building%20Full-Stack%20Data%20Analytics%20Applications%20with%20Spark.pdf)
+* Apache Hadoop YARN - Moving beyond MapReduce and Batch Processing with Apache Hadoop 2 [[Download]](/book/Apache%20Hadoop%20YARN%20-%20Moving%20beyond%20MapReduce%20and%20Batch%20Processing%20with%20Apache%20Hadoop%202.pdf)
 * Apache HBase Primer [[Download]](/book/Apache%20HBase%20Primer.pdf)
 * Big Data - Principles and best practices of scalable realtime data systems [[Download]](/book/Big%20Data%20-%20Principles%20and%20best%20practices%20of%20scalable%20realtime%20data%20systems.pdf)
 * Big Data Analytics with R and Hadoop [[Download]](/book/Big%20Data%20Analytics%20with%20R%20and%20Hadoop.pdf)
