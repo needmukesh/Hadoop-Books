@@ -44,6 +44,8 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Hadoop Real World Solutions Cookbook - Second Edition [[Download]](/book/Hadoop%20Real%20World%20Solutions%20Cookbook%20-%20Second%20Edition.pdf)
 * Hadoop Security - Protecting Your Big Data Platform [[Download]](/book/Hadoop%20Security%20-%20Protecting%20Your%20Big%20Data%20Platform.pdf)
 * HBase - The Definitive Guide - Second Edition - Early Release [[Download]](/book/HBase%20-%20The%20Definitive%20Guide%20-%20Second%20Edition%20-%20Early%20Release.pdf)
+* HBase Design Patterns [[Download]](/book/HBase%20Design%20Patterns.pdf)
+* HBase Essentials [[Download]](/book/HBase%20Essentials.pdf)
 * HBase High Performance Cookbook [[Download]](/book/HBase%20High%20Performance%20Cookbook.epub)
 * HBase in Action [[Download]](/book/HBase%20in%20Action.pdf)
 * HDInsight Essentials - Second Edition [[Download]](/book/HDInsight%20Essentials%20-%20Second%20Edition.pdf)
