@@ -82,4 +82,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Spark - The Definitive Guide - Big data processing made simple [[Download]](/book/Spark%20-%20The%20Definitive%20Guide%20-%20Big%20data%20processing%20made%20simple.epub)
 * Spark Cookbook [[Download]](/book/Spark%20Cookbook.pdf)
 * Spark for Python Developers [[Download]](/book/Spark%20for%20Python%20Developers.pdf)
+* Spark GraphX in Action [[Download]](/book/Spark%20GraphX%20in%20Action.pdf)
+* Spark in Action [[Download]](/book/Spark%20in%20Action.pdf)
 
