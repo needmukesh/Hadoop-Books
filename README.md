@@ -84,4 +84,5 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Spark for Python Developers [[Download]](/book/Spark%20for%20Python%20Developers.pdf)
 * Spark GraphX in Action [[Download]](/book/Spark%20GraphX%20in%20Action.pdf)
 * Spark in Action [[Download]](/book/Spark%20in%20Action.pdf)
+* Storm Blueprints - Patterns for Distributed Real-time Computation [[Download]](/book/Storm%20Blueprints%20-%20Patterns%20for%20Distributed%20Real-time%20Computation.pdf)
 
